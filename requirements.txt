@@ -1,4 +1,4 @@
-atсвtrs==24.2.0
+attrs==24.2.0
 certifi==2024.8.30
 cffi==1.17.1
 colorama==0.4.6
@@ -21,3 +21,4 @@ typing_extensions==4.12.2
 urllib3==2.2.2
 websocket-client==1.8.0
 wsproto==1.2.0
+
